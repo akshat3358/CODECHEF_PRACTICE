@@ -29,7 +29,7 @@ int main(){
         {
             cnt_tot_days++;
         }
-        printf("%d",cnt_tot_days);
+        printf("%d\n",cnt_tot_days);
     }
     return 0;
 }
